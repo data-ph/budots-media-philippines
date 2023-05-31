@@ -1,17 +1,17 @@
 {
-  "baseURL": "https://hello.world",
-  "author": "hello.world",
+  "baseURL": "https://budots.com",
+  "author": "Bart Sakwerda",
   "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
+  "title": "Budots Group: Budots Media, DataOps Philippines, Philppines Travel Company",
   "language": "en",
   "social": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "url": "https://twitter.com/bartsakwerda"
     },
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://linkedin.com/in/bartsakwerda"
     }
   ]
 }
